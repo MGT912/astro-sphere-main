@@ -14,7 +14,7 @@ const projects = (await getCollection("projects")).filter(
   (project: CollectionEntry<"projects">) => !project.data.draft
 );
 
-const data = [...posts, ...projects];
+const data: (CollectionEntry<"blog"> | CollectionEntry<"projects">)[] = [...posts, ...projects];
 ---
 
 <PageLayout title={SEARCH.TITLE} description={SEARCH.DESCRIPTION}>

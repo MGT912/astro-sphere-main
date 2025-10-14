@@ -11,10 +11,12 @@ export async function GET(context: Context) {
   const posts = await getCollection("blog")
   const projects = await getCollection("projects")
   
-  const items = [...posts, ...projects]
+  const items: (CollectionEntry<'blog'> | CollectionEntry<'projects'>)[] = [...posts, ...projects]
   
-  items.sort((a: CollectionEntry<'blog'> | CollectionEntry<'projects'>, 
-              b: CollectionEntry<'blog'> | CollectionEntry<'projects'>) => 
+  items.sort((
+    a: CollectionEntry<'blog'> | CollectionEntry<'projects'>, 
+    b: CollectionEntry<'blog'> | CollectionEntry<'projects'>
+  ) => 
     new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
   )
   
