@@ -7,16 +7,15 @@ type Context = {
   site: string
 }
 
+type BlogOrProject = CollectionEntry<'blog'> | CollectionEntry<'projects'>
+
 export async function GET(context: Context) {
   const posts = await getCollection("blog")
   const projects = await getCollection("projects")
   
-  const items: (CollectionEntry<'blog'> | CollectionEntry<'projects'>)[] = [...posts, ...projects]
+  const items: BlogOrProject[] = [...posts, ...projects]
   
-  items.sort((
-    a: CollectionEntry<'blog'> | CollectionEntry<'projects'>, 
-    b: CollectionEntry<'blog'> | CollectionEntry<'projects'>
-  ) => 
+  items.sort((a: BlogOrProject, b: BlogOrProject) => 
     new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
   )
   
@@ -24,7 +23,7 @@ export async function GET(context: Context) {
     title: SITE.TITLE,
     description: SITE.DESCRIPTION,
     site: context.site,
-    items: items.map((item: CollectionEntry<'blog'> | CollectionEntry<'projects'>) => ({
+    items: items.map((item: BlogOrProject) => ({
       title: item.data.title,
       description: item.data.summary,
       pubDate: item.data.date,
