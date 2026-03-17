@@ -1,0 +1,38 @@
+---
+title: "Are sanctions a non-violent alternative to war? Truths and lies of the international system about economic sanctions."
+summary: ""
+date: "16 March 2026"
+draft: false
+tags:
+- Economic sanctions
+- collateral effects
+- humanitarian needs
+---
+Economic sanctions are now one of the most widely used tools in states’ external affairs to affirm their geopolitical posture by influencing the external, social, and economic policies of other countries.
+Since 1966, the United Nations has developed 31 sanction systems, general or specific, within the scope of Chapter VII of the United Nations Charter, concerning “Actions with respect to threats to the peace, breaches of the peace and acts of aggression”. Despite the existence of an international framework governing economic sanctions, in recent decades states have increasingly used the so-called “unilateral sanctions”, i.e. sanctions adopted outside the normative framework of the United Nations, without a Security Council resolution properly justifying them under Article 41 of the United Nations Charter.
+In general, economic sanctions, which emerged during the 20th century as a tool of the League of Nations to isolate or block any state manifesting the intention to subvert the League’s project (or more generally Wilson’s ideological framework), can be motivated by a number of different reasons and can be directed toward a variety of aims. The main reasons, in this regard, can be described through four macro-categories: political reasons, for example a strong ideological opposition between two countries; economic reasons, such as economic policies that are incompatible or in competition with each other; military reasons, for instance military operation against the strategic interest of another state; or social reasons, for example following violations of the fundamental rights of the population by a government.
+
+The factors that influence the effectiveness of sanctions, however, are much more complex and diverse. In fact, they tend to be most effective during the initial phase of their implementation, as overtime the targeted state can rearrange its commercial relationships in order to circumvent them, and when the pre-existing political and commercial relations between the targeted state and the country applying the sanctions were closer and more developed. Another factor not to overlook in evaluating the effectiveness of sanctions is the degree of isolation of the targeted country before their implementation, as this aspect influences its ability to establish an alternative economic network to bypass the sanctions.
+
+Since the second half of the 20th century, a negative trend has emerged regarding the effectiveness of economic sanctions and their ability to achieve their aims. In fact, the success rate rarely exceeds 30%, with the exception of sanctions aimed at small policy modifications in targeted countries. In parallel with this trend, it is possible to observe a shift in the role of economic sanctions, from an alternative to military action to a tool used to wage proxy wars or as a precursor to direct military confrontation.
+Effectiveness is not the only critical aspect of economic sanctions and their implementation. In fact, their negative collateral effects are increasingly recognized, often undermining their international legitimacy. A study published in *The Lancet Global Health* in 2025, for example, estimated the number of deaths caused by economic sanctions at about 564,000 per year, which corresponds to the annual number of deaths caused by all wars worldwide. Nevertheless, the authors of the study highlight how economic sanctions are still perceived as a non-violent policy and, as a consequence, a valid alternative to the use of military force. 
+
+It is evident, then, that the consequences of the implementation of economic sanctions are questionable, particularly regarding their effects on the populations of targeted countries.
+It is precisely for this reason that, over the years, several measures have been adopted in order to reduce the negative outcomes on the population and, at the same time, increase the effectiveness of sanctions against the political élite of the targeted state.
+One of these measures is represented by the creation of the so-called “smart sanctions” or “targeted sanctions”, designed to directly address specific natural or legal persons, maximizing the effects on the political system while limiting the effects on the rest of the population. This kind of sanction can be implemented, for instance, through asset freezes or specific travel bans.
+Another fundamental step in this direction has been represented by the introduction of “humanitarian exceptions” to the application of economic sanctions, which are applied when sanctions risk excessively damaging a population, particularly its humanitarian conditions, by depriving it of its fundamental rights. As of 2022, with the Security Council Resolution 2644, humanitarian exceptions became permanent and mandatory with regard to all asset-freeze measures imposed on the legal basis of a United Nations sanction regime. Although this resolution imposes a normative constraint only within the legal framework of the United Nations, it has gained increasing relevance as its provisions have been integrated, totally or partially, into many national legal frameworks, such as those of the United States and of the European Union.
+
+Despite the importance of both these provisions, the aim of removing the drawbacks of economic sanctions, particularly with respect to the population, is still far from being achieved. On the contrary, the harmful repercussions of sanctions can be observed in many fields, not only in the humanitarian one. The previously cited study published in *The Lancet*, for example, underlined how unilateral economic sanctions implemented so far have, in the majority of cases, led to the economic collapse of the targeted state, inevitably provoking serious consequences for the population, not only by reducing their wealth but also by undermining their fundamental rights, such as access to food and water, and adequate shelter and hygiene.
+
+There is clearly a need, then, to open an engaged international debate aimed at rethinking the nature and implementation of economic sanctions, particularly unilateral sanctions, in order to make them compliant with international law and with the protection of fundamental human rights, which every population must be able to enjoy regardless of the geopolitical posture of their country. If the international community is not able to reach this aim, the values and principles that represent its own pillars will once again be violated and denied. 
+This would legitimate a system in which it is not international law that governs relations between states, but rather a mere “law of the jungle”, which causes sufferings to people all over the world, by making them pay for something they are not responsible for. 
+This would allow the proliferation of imbalances and subordinations between countries and populations, based on the presumption that some people live on “the wrong side” of the international system.
+This is not acceptable.
+
+# References
+
+https://aliseoeditoriale.it/sanzioni-economiche-storia-russia-ucraina-occidente/
+
+https://www.esteri.it/wp-content/uploads/2024/09/AWOS_Sanzioni_Siria.pdf
+
+https://cepr.net/newsroom/new-study-estimates-over-half-a-million-people-die-each-year-due-to-unilateral-economic-sanctions/
